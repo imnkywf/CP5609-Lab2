@@ -152,6 +152,48 @@ CMakeFiles/CP5609-Lab2.dir/Board.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Board.cpp.s"
 	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Board.cpp -o CMakeFiles\CP5609-Lab2.dir\Board.cpp.s
 
+CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj: ../VectorBoardObjects.cpp
+CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\VectorBoardObjects.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\VectorBoardObjects.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VectorBoardObjects.cpp
+
+CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VectorBoardObjects.cpp > CMakeFiles\CP5609-Lab2.dir\VectorBoardObjects.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VectorBoardObjects.cpp -o CMakeFiles\CP5609-Lab2.dir\VectorBoardObjects.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj: ../Monster.cpp
+CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Monster.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Monster.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Monster.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Monster.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Monster.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Monster.cpp > CMakeFiles\CP5609-Lab2.dir\Monster.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Monster.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Monster.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Monster.cpp -o CMakeFiles\CP5609-Lab2.dir\Monster.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj: ../Bomb.cpp
+CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Bomb.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Bomb.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Bomb.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Bomb.cpp > CMakeFiles\CP5609-Lab2.dir\Bomb.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Bomb.cpp -o CMakeFiles\CP5609-Lab2.dir\Bomb.cpp.s
+
 # Object files for target CP5609-Lab2
 CP5609__Lab2_OBJECTS = \
 "CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj" \
@@ -159,7 +201,10 @@ CP5609__Lab2_OBJECTS = \
 "CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj" \
 "CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj" \
 "CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj" \
-"CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj"
+"CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj"
 
 # External object files for target CP5609-Lab2
 CP5609__Lab2_EXTERNAL_OBJECTS =
@@ -170,11 +215,14 @@ CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/build.make
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/linklibs.rsp
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/objects1.rsp
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable CP5609-Lab2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable CP5609-Lab2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CP5609-Lab2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

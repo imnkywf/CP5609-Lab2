@@ -152,6 +152,30 @@ Board.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Board.cpp.s
 .PHONY : Board.cpp.s
 
+Bomb.obj: Bomb.cpp.obj
+.PHONY : Bomb.obj
+
+# target to build an object file
+Bomb.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.obj
+.PHONY : Bomb.cpp.obj
+
+Bomb.i: Bomb.cpp.i
+.PHONY : Bomb.i
+
+# target to preprocess a source file
+Bomb.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.i
+.PHONY : Bomb.cpp.i
+
+Bomb.s: Bomb.cpp.s
+.PHONY : Bomb.s
+
+# target to generate assembly for a file
+Bomb.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Bomb.cpp.s
+.PHONY : Bomb.cpp.s
+
 Cookie.obj: Cookie.cpp.obj
 .PHONY : Cookie.obj
 
@@ -200,6 +224,30 @@ ListBoardObejcts.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.s
 .PHONY : ListBoardObejcts.cpp.s
 
+Monster.obj: Monster.cpp.obj
+.PHONY : Monster.obj
+
+# target to build an object file
+Monster.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Monster.cpp.obj
+.PHONY : Monster.cpp.obj
+
+Monster.i: Monster.cpp.i
+.PHONY : Monster.i
+
+# target to preprocess a source file
+Monster.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Monster.cpp.i
+.PHONY : Monster.cpp.i
+
+Monster.s: Monster.cpp.s
+.PHONY : Monster.s
+
+# target to generate assembly for a file
+Monster.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Monster.cpp.s
+.PHONY : Monster.cpp.s
+
 Player.obj: Player.cpp.obj
 .PHONY : Player.obj
 
@@ -223,6 +271,30 @@ Player.s: Player.cpp.s
 Player.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Player.cpp.s
 .PHONY : Player.cpp.s
+
+VectorBoardObjects.obj: VectorBoardObjects.cpp.obj
+.PHONY : VectorBoardObjects.obj
+
+# target to build an object file
+VectorBoardObjects.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.obj
+.PHONY : VectorBoardObjects.cpp.obj
+
+VectorBoardObjects.i: VectorBoardObjects.cpp.i
+.PHONY : VectorBoardObjects.i
+
+# target to preprocess a source file
+VectorBoardObjects.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.i
+.PHONY : VectorBoardObjects.cpp.i
+
+VectorBoardObjects.s: VectorBoardObjects.cpp.s
+.PHONY : VectorBoardObjects.s
+
+# target to generate assembly for a file
+VectorBoardObjects.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VectorBoardObjects.cpp.s
+.PHONY : VectorBoardObjects.cpp.s
 
 VladPackManGame.obj: VladPackManGame.cpp.obj
 .PHONY : VladPackManGame.obj
@@ -284,15 +356,24 @@ help:
 	@echo ... Board.obj
 	@echo ... Board.i
 	@echo ... Board.s
+	@echo ... Bomb.obj
+	@echo ... Bomb.i
+	@echo ... Bomb.s
 	@echo ... Cookie.obj
 	@echo ... Cookie.i
 	@echo ... Cookie.s
 	@echo ... ListBoardObejcts.obj
 	@echo ... ListBoardObejcts.i
 	@echo ... ListBoardObejcts.s
+	@echo ... Monster.obj
+	@echo ... Monster.i
+	@echo ... Monster.s
 	@echo ... Player.obj
 	@echo ... Player.i
 	@echo ... Player.s
+	@echo ... VectorBoardObjects.obj
+	@echo ... VectorBoardObjects.i
+	@echo ... VectorBoardObjects.s
 	@echo ... VladPackManGame.obj
 	@echo ... VladPackManGame.i
 	@echo ... VladPackManGame.s

@@ -28,36 +28,3 @@ void banner()
 
 }
 
-int main()
-
-{
-    char aMove;
-    banner();
-
-    // Initialize
-
-    Board theBoard (7,7);
-
-    // Set Up
-
-    do{
-
-
-        theBoard.paint();
-
-        cin >> aMove;
-
-        if ( ('E'==aMove) || ('X'==aMove) || ('S'==aMove) || ('D'==aMove) )
-            aMove=aMove-'A'+'a';
-
-        if ( ! (
-                ('e'==aMove) || ('x'==aMove) || ('s'==aMove) || ('d'==aMove)
-        ) ) aMove='p';
-
-        theBoard.move(aMove);
-
-    } while (theBoard.IamAlive());
-
-
-    return 0;
-}

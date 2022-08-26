@@ -93,6 +93,12 @@
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/BoardObjectH.h">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Bomb.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Bomb.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Cookie.cpp">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
@@ -105,10 +111,22 @@
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/ListBoardObjectsH.h">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Monster.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Monster.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Player.cpp">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/PlayerH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/VectorBoardObjects.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/VectorBoardObjectsH.h">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/VladPackManGame.cpp">
