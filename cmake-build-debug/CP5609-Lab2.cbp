@@ -84,7 +84,43 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/hello.cpp">
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Board.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/BoardH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/BoardObjectH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Cookie.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/CookieH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/ListBoardObejcts.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/ListBoardObjectsH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Player.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/PlayerH.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/VladPackManGame.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/VladPackManGame.h">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/Wall.cpp">
+			<Option target="CP5609-Lab2"/>
+		</Unit>
+		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/WallH.h">
 			<Option target="CP5609-Lab2"/>
 		</Unit>
 		<Unit filename="C:/Users/Administrator/Desktop/CP5609/Lab2/CP5609-Lab2/CMakeLists.txt">

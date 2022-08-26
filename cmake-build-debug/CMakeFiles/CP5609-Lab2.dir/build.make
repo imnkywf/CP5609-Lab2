@@ -68,33 +68,113 @@ include CMakeFiles/CP5609-Lab2.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CP5609-Lab2.dir/flags.make
 
-CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
-CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj: ../hello.cpp
-CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\hello.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\hello.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\hello.cpp
+CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj: ../VladPackManGame.cpp
+CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\VladPackManGame.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\VladPackManGame.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VladPackManGame.cpp
 
-CMakeFiles/CP5609-Lab2.dir/hello.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/hello.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\hello.cpp > CMakeFiles\CP5609-Lab2.dir\hello.cpp.i
+CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VladPackManGame.cpp > CMakeFiles\CP5609-Lab2.dir\VladPackManGame.cpp.i
 
-CMakeFiles/CP5609-Lab2.dir/hello.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/hello.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\hello.cpp -o CMakeFiles\CP5609-Lab2.dir\hello.cpp.s
+CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\VladPackManGame.cpp -o CMakeFiles\CP5609-Lab2.dir\VladPackManGame.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj: ../Wall.cpp
+CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Wall.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Wall.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Wall.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Wall.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Wall.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Wall.cpp > CMakeFiles\CP5609-Lab2.dir\Wall.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Wall.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Wall.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Wall.cpp -o CMakeFiles\CP5609-Lab2.dir\Wall.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj: ../Player.cpp
+CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Player.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Player.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Player.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Player.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Player.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Player.cpp > CMakeFiles\CP5609-Lab2.dir\Player.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Player.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Player.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Player.cpp -o CMakeFiles\CP5609-Lab2.dir\Player.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj: ../Cookie.cpp
+CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Cookie.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Cookie.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Cookie.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Cookie.cpp > CMakeFiles\CP5609-Lab2.dir\Cookie.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Cookie.cpp -o CMakeFiles\CP5609-Lab2.dir\Cookie.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj: ../ListBoardObejcts.cpp
+CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\ListBoardObejcts.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\ListBoardObejcts.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\ListBoardObejcts.cpp
+
+CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\ListBoardObejcts.cpp > CMakeFiles\CP5609-Lab2.dir\ListBoardObejcts.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\ListBoardObejcts.cpp -o CMakeFiles\CP5609-Lab2.dir\ListBoardObejcts.cpp.s
+
+CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj: CMakeFiles/CP5609-Lab2.dir/flags.make
+CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj: ../Board.cpp
+CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj: CMakeFiles/CP5609-Lab2.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj -MF CMakeFiles\CP5609-Lab2.dir\Board.cpp.obj.d -o CMakeFiles\CP5609-Lab2.dir\Board.cpp.obj -c C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Board.cpp
+
+CMakeFiles/CP5609-Lab2.dir/Board.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CP5609-Lab2.dir/Board.cpp.i"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Board.cpp > CMakeFiles\CP5609-Lab2.dir\Board.cpp.i
+
+CMakeFiles/CP5609-Lab2.dir/Board.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CP5609-Lab2.dir/Board.cpp.s"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.2\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\Board.cpp -o CMakeFiles\CP5609-Lab2.dir\Board.cpp.s
 
 # Object files for target CP5609-Lab2
 CP5609__Lab2_OBJECTS = \
-"CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj"
+"CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj" \
+"CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj"
 
 # External object files for target CP5609-Lab2
 CP5609__Lab2_EXTERNAL_OBJECTS =
 
-CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj
+CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/build.make
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/linklibs.rsp
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/objects1.rsp
 CP5609-Lab2.exe: CMakeFiles/CP5609-Lab2.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable CP5609-Lab2.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Administrator\Desktop\CP5609\Lab2\CP5609-Lab2\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable CP5609-Lab2.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CP5609-Lab2.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

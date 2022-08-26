@@ -128,29 +128,149 @@ CP5609-Lab2/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/build
 .PHONY : CP5609-Lab2/fast
 
-hello.obj: hello.cpp.obj
-.PHONY : hello.obj
+Board.obj: Board.cpp.obj
+.PHONY : Board.obj
 
 # target to build an object file
-hello.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/hello.cpp.obj
-.PHONY : hello.cpp.obj
+Board.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Board.cpp.obj
+.PHONY : Board.cpp.obj
 
-hello.i: hello.cpp.i
-.PHONY : hello.i
+Board.i: Board.cpp.i
+.PHONY : Board.i
 
 # target to preprocess a source file
-hello.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/hello.cpp.i
-.PHONY : hello.cpp.i
+Board.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Board.cpp.i
+.PHONY : Board.cpp.i
 
-hello.s: hello.cpp.s
-.PHONY : hello.s
+Board.s: Board.cpp.s
+.PHONY : Board.s
 
 # target to generate assembly for a file
-hello.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/hello.cpp.s
-.PHONY : hello.cpp.s
+Board.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Board.cpp.s
+.PHONY : Board.cpp.s
+
+Cookie.obj: Cookie.cpp.obj
+.PHONY : Cookie.obj
+
+# target to build an object file
+Cookie.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.obj
+.PHONY : Cookie.cpp.obj
+
+Cookie.i: Cookie.cpp.i
+.PHONY : Cookie.i
+
+# target to preprocess a source file
+Cookie.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.i
+.PHONY : Cookie.cpp.i
+
+Cookie.s: Cookie.cpp.s
+.PHONY : Cookie.s
+
+# target to generate assembly for a file
+Cookie.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Cookie.cpp.s
+.PHONY : Cookie.cpp.s
+
+ListBoardObejcts.obj: ListBoardObejcts.cpp.obj
+.PHONY : ListBoardObejcts.obj
+
+# target to build an object file
+ListBoardObejcts.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.obj
+.PHONY : ListBoardObejcts.cpp.obj
+
+ListBoardObejcts.i: ListBoardObejcts.cpp.i
+.PHONY : ListBoardObejcts.i
+
+# target to preprocess a source file
+ListBoardObejcts.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.i
+.PHONY : ListBoardObejcts.cpp.i
+
+ListBoardObejcts.s: ListBoardObejcts.cpp.s
+.PHONY : ListBoardObejcts.s
+
+# target to generate assembly for a file
+ListBoardObejcts.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/ListBoardObejcts.cpp.s
+.PHONY : ListBoardObejcts.cpp.s
+
+Player.obj: Player.cpp.obj
+.PHONY : Player.obj
+
+# target to build an object file
+Player.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Player.cpp.obj
+.PHONY : Player.cpp.obj
+
+Player.i: Player.cpp.i
+.PHONY : Player.i
+
+# target to preprocess a source file
+Player.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Player.cpp.i
+.PHONY : Player.cpp.i
+
+Player.s: Player.cpp.s
+.PHONY : Player.s
+
+# target to generate assembly for a file
+Player.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Player.cpp.s
+.PHONY : Player.cpp.s
+
+VladPackManGame.obj: VladPackManGame.cpp.obj
+.PHONY : VladPackManGame.obj
+
+# target to build an object file
+VladPackManGame.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.obj
+.PHONY : VladPackManGame.cpp.obj
+
+VladPackManGame.i: VladPackManGame.cpp.i
+.PHONY : VladPackManGame.i
+
+# target to preprocess a source file
+VladPackManGame.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.i
+.PHONY : VladPackManGame.cpp.i
+
+VladPackManGame.s: VladPackManGame.cpp.s
+.PHONY : VladPackManGame.s
+
+# target to generate assembly for a file
+VladPackManGame.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/VladPackManGame.cpp.s
+.PHONY : VladPackManGame.cpp.s
+
+Wall.obj: Wall.cpp.obj
+.PHONY : Wall.obj
+
+# target to build an object file
+Wall.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Wall.cpp.obj
+.PHONY : Wall.cpp.obj
+
+Wall.i: Wall.cpp.i
+.PHONY : Wall.i
+
+# target to preprocess a source file
+Wall.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Wall.cpp.i
+.PHONY : Wall.cpp.i
+
+Wall.s: Wall.cpp.s
+.PHONY : Wall.s
+
+# target to generate assembly for a file
+Wall.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CP5609-Lab2.dir\build.make CMakeFiles/CP5609-Lab2.dir/Wall.cpp.s
+.PHONY : Wall.cpp.s
 
 # Help Target
 help:
@@ -161,9 +281,24 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... CP5609-Lab2
-	@echo ... hello.obj
-	@echo ... hello.i
-	@echo ... hello.s
+	@echo ... Board.obj
+	@echo ... Board.i
+	@echo ... Board.s
+	@echo ... Cookie.obj
+	@echo ... Cookie.i
+	@echo ... Cookie.s
+	@echo ... ListBoardObejcts.obj
+	@echo ... ListBoardObejcts.i
+	@echo ... ListBoardObejcts.s
+	@echo ... Player.obj
+	@echo ... Player.i
+	@echo ... Player.s
+	@echo ... VladPackManGame.obj
+	@echo ... VladPackManGame.i
+	@echo ... VladPackManGame.s
+	@echo ... Wall.obj
+	@echo ... Wall.i
+	@echo ... Wall.s
 .PHONY : help
 
 
